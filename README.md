@@ -29,6 +29,12 @@ https://dev.to/charlesdlandau/python-3-8-has-been-released-let-s-take-a-tour-bj3
 
 ---
 
+# python concorrente
+
+https://www.youtube.com/watch?v=FYKNHk3Ze8A
+
+---
+
 # BDD + TDD
 https://www.youtube.com/watch?v=Y_GQdxRSnIg
 
@@ -57,6 +63,18 @@ https://www.guru99.com/bdd-testing-rest-api-behave.html
 https://github.com/behave/behave
 
 https://github.com/jeancochrane/pytest-flask-sqlalchemy
+
+https://www.youtube.com/watch?v=MAvXluvVv5o&feature=youtu.be
+
+https://youtu.be/AUtrEYnm0ts
+
+https://www.youtube.com/watch?v=EZ05e7EMOLM
+
+https://www.youtube.com/watch?v=KyFVA4Spcgg
+
+### List of Free Software Testing Resources
+
+https://github.com/ligurio/awesome-software-quality
 
 ---
 
@@ -145,6 +163,8 @@ https://ossu.thinkific.com/courses/computer-science-v7
 https://inboxkitten.com/
 
 https://github.com/uilicious/inboxkitten
+
+https://dev.to/uilicious/the-stack-making-a-free-open-source-disposable-email-service-prototype-inboxkittencom-in-14-hours-206g
 
 ---
 
@@ -250,9 +270,11 @@ https://dev.to/apcelent/how-to-create-rest-api-using-falcon-coi
 # boas praticas
 https://medium.com/@viniciuschan/solid-com-python-entendendo-os-5-princ%C3%ADpios-na-pr%C3%A1tica-f2af330b7751
 
+https://github.com/proudcloud/awesome
+
 ---
 
-# qcon sp
+# qcon  
 https://www.youtube.com/watch?v=G_tCYSE4K0I&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=16&t=0s
 
 ### Microservices em produção, e agora?
@@ -274,14 +296,20 @@ https://www.youtube.com/watch?v=j6ow-UemzBc
 https://www.youtube.com/watch?v=sSm2dRarhPo
 
 
- 
+
+# infoq
+https://www.youtube.com/playlist?list=PLoxsuhBe-jd8Z5BhNNHahEXasZbThpDvu
+
 https://www.infoq.com/br/presentations/api-gateway-fugir-do-monolito/
+
+
+
+
+
 
 https://github.com/JacksonWuxs/DaPy
 
-https://github.com/ligurio/awesome-software-quality
 
-https://github.com/proudcloud/awesome
 
 https://github.com/proudcloud/awesome/blob/master/practices/qa.md
  
@@ -300,32 +328,27 @@ https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/
 
 http://gino.fantix.pro/en/latest/why.html
 
-https://www.youtube.com/watch?v=FYKNHk3Ze8A
 
-https://www.youtube.com/watch?v=KyFVA4Spcgg
 
-https://www.youtube.com/watch?v=EZ05e7EMOLM
 
+---
 
 # mashmallow | pydantic
 https://github.com/samuelcolvin/pydantic/blob/master/benchmarks/test_marshmallow.py
 
 https://pydantic-docs.helpmanual.io/benchmarks/
 
+---
 
 # process and system monitoring in Python
 https://github.com/giampaolo/psutil
 
- 
+---
 
- 
- 
-https://youtu.be/MAvXluvVv5o
-
-https://youtu.be/AUtrEYnm0ts
-
- 
+# Software Architecture
 https://www.youtube.com/watch?v=zcmU-OE452k
+
+---
 
 # python for kids
 https://www.amazon.com/Girls-Who-Code-Learn-Change/dp/042528753X
@@ -334,46 +357,29 @@ https://www.amazon.com/gp/product/1593275749/ref=as_li_tl?ie=UTF8&tag=projemun 2
 
 https://nostarch.com/pythonforkids
 
-https://opensource.com/article/18/5/books-kids-linux-open-source
-
-
+https://opensource.com/article/18/5/books-kids-linux-open-source  
  
+---
 
-
-
- 
-https://www.youtube.com/playlist?list=PLOQgLBuj2-3IoAs-EbiqARJ3AsmCY_DER
-
-
-https://www.youtube.com/watch?v=Y_GQdxRSnIg
-
-  
-http://click.palletsprojects.com/en/7.x/testing/
- 
-
-https://dev.to/uilicious/the-stack-making-a-free-open-source-disposable-email-service-prototype-inboxkittencom-in-14-hours-206g
-
+# Self Hosted
 https://github.com/juandecarrion/awesome-self-hosted
 
+## web analytics
 https://matomo.org/
 
+## Object Storage
 https://min.io/
 
+#...
 https://parseplatform.org/
 
+
+## social
 https://mastodon.social/about
-
-https://twitter.com/pycoders/status/1191763610927796225?s=09
-
-https://twitter.com/pycoders/status/1191763611208867843?s=09
-
-https://t.co/StH9Qxlvk1?amp=1
-
-
  
  
- 
- 
+# python and maps
+https://medium.com/marciojesus/limpando-dados-do-openstreetmap-com-python-e-mondodb-d5e59e3c11ba
 
  
 # A simple shared budget manager web application
