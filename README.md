@@ -29,9 +29,13 @@ https://dev.to/charlesdlandau/python-3-8-has-been-released-let-s-take-a-tour-bj3
 
 ---
 
-# python concorrente
+# python concorrente | async
 
 https://www.youtube.com/watch?v=FYKNHk3Ze8A
+
+https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/
+
+http://gino.fantix.pro/en/latest/why.html
 
 ---
 
@@ -84,6 +88,14 @@ https://castalio.info/episodio-117-engenharia-de-qualidade-101.html
 https://www.youtube.com/watch?v=bjRlzBksW20&feature=youtu.be
 
 https://docs.google.com/presentation/d/1qKKPJPar7wsieXdscwNznyFRjfCQX9UKV9bpeVxh274/edit#slide=id.gad6eabfdb_0_123
+
+https://github.com/proudcloud/awesome/blob/master/practices/qa.md
+
+---
+
+# Data Mining
+
+https://github.com/JacksonWuxs/DaPy
 
 ---
 
@@ -274,8 +286,14 @@ https://speakerfight.com/events/2o-encontro-grupy-jundiai/#fastapi-porque-python
 
 ---
 
-# falcon
+# Python web frameworks
+https://deepsource.io/blog/new-python-web-frameworks/
+
+https://www.starlette.io/
+
 https://dev.to/apcelent/how-to-create-rest-api-using-falcon-coi 
+
+https://medium.com/idealo-tech-blog/falcon-vs-flask-which-one-to-pick-to-create-a-scalable-deep-learning-rest-api-adef647ebdec
 
 ---
 
@@ -312,36 +330,7 @@ https://www.youtube.com/watch?v=sSm2dRarhPo
 # infoq
 https://www.youtube.com/playlist?list=PLoxsuhBe-jd8Z5BhNNHahEXasZbThpDvu
 
-https://www.infoq.com/br/presentations/api-gateway-fugir-do-monolito/
-
-
-
-
-
-
-https://github.com/JacksonWuxs/DaPy
-
-
-
-https://github.com/proudcloud/awesome/blob/master/practices/qa.md
- 
-https://www.starlette.io/
-
-
-https://deepsource.io/blog/new-python-web-frameworks/
-
- 
-
-https://medium.com/idealo-tech-blog/falcon-vs-flask-which-one-to-pick-to-create-a-scalable-deep-learning-rest-api-adef647ebdec
-
- 
- 
-https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/
-
-http://gino.fantix.pro/en/latest/why.html
-
-
-
+https://www.infoq.com/br/presentations/api-gateway-fugir-do-monolito/ 
 
 ---
 
