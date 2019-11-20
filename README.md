@@ -130,6 +130,18 @@ https://medium.com/python-pandemonium/automate-your-deployment-and-ssh-activitie
 
 https://medium.com/free-code-camp/makefiles-101-how-to-use-make-as-a-task-automation-tool-69d2ccc3f25e
 
+https://github.com/kennethreitz/bake
+
+### deploy
+
+https://github.com/localstack/localstack
+
+---
+
+# aplication stack
+
+https://parseplatform.org/
+
 ---
 
 # recrutamento e divertidade
