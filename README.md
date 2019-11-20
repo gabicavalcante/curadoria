@@ -1,6 +1,8 @@
 # curadoria
 
 medium to devs: https://github.com/thepracticaldev/dev.to
+--- 
+
 
 # git flow:
 
@@ -15,12 +17,17 @@ https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase
 https://www.freecodecamp.org/news/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f/
 
 https://medium.com/luizalabs/pull-merge-requests-seguindo-boas-pr%C3%A1ticas-8a7bbbad0ea7
+  
+https://blog.jerrycodes.com/pre-commit-is-awesome/
+
+---
 
 # python 
 https://learning.oreilly.com/videos/tips-tricks-and/9781789139235
 
 https://dev.to/charlesdlandau/python-3-8-has-been-released-let-s-take-a-tour-bj3
 
+---
 
 # BDD + TDD
 https://www.youtube.com/watch?v=Y_GQdxRSnIg
@@ -39,7 +46,19 @@ https://learning.oreilly.com/library/view/python-testing-with/9781680502848/
 
 https://github.com/leoGalani/sherlock
 
+https://martinfowler.com/articles/practical-test-pyramid.html
 
+https://github.com/axelcdv/flask-testing/blob/master/project/core/tests/factories.py
+
+https://medium.com/@typenil/sqlalchemy-factoryboy-passing-arbitrary-sessions-to-factories-716870bf0c67
+
+https://www.guru99.com/bdd-testing-rest-api-behave.html
+
+https://github.com/behave/behave
+
+https://github.com/jeancochrane/pytest-flask-sqlalchemy
+
+---
 
 # Engenharia de qualidade
 https://castalio.info/episodio-117-engenharia-de-qualidade-101.html
@@ -47,6 +66,8 @@ https://castalio.info/episodio-117-engenharia-de-qualidade-101.html
 https://www.youtube.com/watch?v=bjRlzBksW20&feature=youtu.be
 
 https://docs.google.com/presentation/d/1qKKPJPar7wsieXdscwNznyFRjfCQX9UKV9bpeVxh274/edit#slide=id.gad6eabfdb_0_123
+
+---
 
 # acessibilidade
 https://appinventiv.com/blog/design-accessibility-app-for-visually-impaired/
@@ -61,6 +82,8 @@ https://fueled.com/blog/improve-app-accessibility/
 
 https://www.youtube.com/watch?v=TQ9rng6YFeY
 
+---
+
 # univerity mongo
 https://university.mongodb.com/
 
@@ -72,8 +95,7 @@ https://university.mongodb.com/courses/M220P/about?jmp=M101Pap
 
 https://learning.oreilly.com/library/view/python-testing-with/9781680502848
 
-
-
+---
 
 # automatizaçao
 https://learning.oreilly.com/library/view/hands-on-enterprise-automation/9781788998512/
@@ -84,14 +106,18 @@ https://learning.oreilly.com/library/view/secret-recipes-of/9781788294874/
 
 https://learning.oreilly.com/library/view/hands-on-restful-python/9781789532227/
 
- 
 https://learning.oreilly.com/learning-paths/learning-path-python/9781789615586/
 
- 
- 
+https://medium.com/python-pandemonium/automate-your-deployment-and-ssh-activities-with-fabric-e59e0db17537
+
+https://medium.com/free-code-camp/makefiles-101-how-to-use-make-as-a-task-automation-tool-69d2ccc3f25e
+
+---
+
 # recrutamento e divertidade
 https://twitter.com/AtemZero/status/1185216988353892353?s=09
 
+---
 
 # empresas de pagamento
 https://github.com/gabicavalcante/galaxpay-client-python
@@ -102,6 +128,7 @@ https://github.com/stripe/stripe-python
 
 https://github.com/paypal/PayPal-Python-SDK/
 
+---
 
 # Open Source Computer Science Degree
 https://github.com/ForrestKnight/open-source-cs
@@ -112,10 +139,14 @@ https://github.com/ossu/computer-science/issues/424
 
 https://ossu.thinkific.com/courses/computer-science-v7
 
+---
 
 # Open-Source Disposable Email
 https://inboxkitten.com/
 
+https://github.com/uilicious/inboxkitten
+
+---
 
 # authentication
 https://simplelogin.io/
@@ -130,30 +161,23 @@ https://medium.com/simplelogin/how-was-simplelogin-born-2fbd8f79b212
 
 https://auth0.com/signup
 
+---
 
 # patterns
 https://flask.palletsprojects.com/en/1.1.x/patterns/appfactories/
 
 https://postgis.net/
 
-
 https://github.com/osmlab/awesome-openstreetmap#python
 
 https://flask-migrate.readthedocs.io/en/latest/
 
- 
+---
+
 # infra
 https://www.vaultproject.io/
-
  
- 
- 
-   
-
-https://github.com/jeancochrane/pytest-flask-sqlalchemy
-
-https://medium.com/free-code-camp/makefiles-101-how-to-use-make-as-a-task-automation-tool-69d2ccc3f25e
-
+---
 
 # lint
 https://github.com/google/yapf/blob/master/pylintrc
@@ -166,140 +190,6 @@ https://pylint.readthedocs.io/en/latest/technical_reference/features.html
 
 https://github.com/vintasoftware/python-linters-and-code-analysis
 
-
-
-# microservices
-https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/ 
-
-
-# How to estimate how many requests per second your web app can handle
-https://twitter.com/miguelgrinberg/status/1183768631102132224?s=09
-
-# Asynchronous Web Development with Flask
-https://twitter.com/miguelgrinberg/status/1171036911487598602?s=09
-
-
-
-# fastapi
-https://github.com/tiangolo/fastapi
-
-https://github.com/tiangolo/full-stack-fastapi-postgresql
- 
-
-# boas praticas
-https://medium.com/@viniciuschan/solid-com-python-entendendo-os-5-princ%C3%ADpios-na-pr%C3%A1tica-f2af330b7751
-
-# qcon sp
-https://www.youtube.com/watch?v=G_tCYSE4K0I&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=16&t=0s
-
-
-
-### Microservices em produção, e agora?
-https://www.youtube.com/watch?v=JdeQLLB1CdY&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=19&t=0s
-
-### Microservices, APIs, and the Autonomous Web
-https://www.youtube.com/watch?v=z1-ER6m9HrQ&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=24&t=0s
-
-https://www.youtube.com/watch?v=ys-L0WBBHs8&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=29&t=0s
-
-https://www.youtube.com/watch?v=72QcYs-2oss&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=35&t=0s
-
-https://www.youtube.com/watch?v=j6ow-UemzBc
-
-https://www.youtube.com/watch?v=sSm2dRarhPo
-
-https://speakerfight.com/events/2o-encontro-grupy-jundiai/#fastapi-porque-python-e-muito-mais-do-que-django-e-flask
-
-https://twitter.com/QuebrandoOTabu/status/1195106633946300418
-
-https://www.infoq.com/br/presentations/api-gateway-fugir-do-monolito/
-
-https://github.com/JacksonWuxs/DaPy
-
-https://github.com/ligurio/awesome-software-quality
-
-https://github.com/proudcloud/awesome
-
-https://github.com/proudcloud/awesome/blob/master/practices/qa.md
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?DE5529C3907012676D74A68F58ED69130B70
-
-https://docs.microsoft.com/en-us/visualstudio/liveshare/troubleshooting
-
-https://prod.liveshare.vsengsaas.visualstudio.com/auth/identity/github/callback/?code=d6dba6f6e2c144e97b18
-
-https://atom.io/packages/atom-pair
-
-https://teletype.atom.io/
-
-https://www.starlette.io/
-
-https://github.com/tiangolo/full-stack-fastapi-postgresql/tree/master/%7B%7Bcookiecutter.project_slug%7D%7D/backend
-
-https://deepsource.io/blog/new-python-web-frameworks/
-
-https://www.quora.com/What-are-the-advantages-of-using-FastAPI-over-flask
-
-https://dev.to/apcelent/how-to-create-rest-api-using-falcon-coi
-
-https://medium.com/idealo-tech-blog/falcon-vs-flask-which-one-to-pick-to-create-a-scalable-deep-learning-rest-api-adef647ebdec
-
-https://github.com/squeaky-pl/japronto/blob/master/README.md
-
-https://gitlab.com/gabicavalcantesilva/product-catalog
-
-https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/
-
-http://gino.fantix.pro/en/latest/why.html
-
-https://www.youtube.com/watch?v=FYKNHk3Ze8A
-
-https://www.youtube.com/watch?v=KyFVA4Spcgg
-
-https://www.youtube.com/watch?v=EZ05e7EMOLM
-
-https://github.com/samuelcolvin/pydantic/blob/master/benchmarks/test_marshmallow.py
-
-https://pydantic-docs.helpmanual.io/benchmarks/
-
-https://github.com/giampaolo/psutil
-
-https://fastapi.tiangolo.com/async/
-
-http://nfce.set.rn.gov.br/portalDFE/NFCe/mDadosNFCe.aspx?p=24191145543915006899650140000770681511017990%7C2%7C1%7C1%7CF7C5A175D9B36311490A4B4F319D83F5E79DF446
-
-uma seçao so sobre deploy https://fastapi.tiangolo.com/deployment/
-
-https://fastapi.tiangolo.com/tutorial/security/intro/
-
-https://github.com/Madpilot0/FastAPI-Auth
-
-https://medium.com/data-rebels/fastapi-how-to-add-basic-and-cookie-authentication-a45c85ef47d3
-
-https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/
-
-https://medium.com/stellar-community/so-you-just-got-your-keybase-spacedrop-what-now-2398fa160d19
-
-https://youtu.be/MAvXluvVv5o
-
-https://youtu.be/AUtrEYnm0ts
-
-https://www.magazineluiza.com.br/kindle-10a-geracao-amazon-tela-6-4gb-wi-fi-luz-embutida-preto/p/223336800/tb/k10g/
-
-https://www.youtube.com/watch?v=zcmU-OE452k
-
-https://www.amazon.com/Girls-Who-Code-Learn-Change/dp/042528753X
-
-https://www.amazon.com/gp/product/1593275749/ref=as_li_tl?ie=UTF8&tag=projemun-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593275749&linkId=e05e1f12176c4959cc1aa1a050908c4a
-
-https://nostarch.com/pythonforkids
-
-https://opensource.com/article/18/5/books-kids-linux-open-source
-
-https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
-
-https://martinfowler.com/articles/practical-test-pyramid.html
-
 https://github.com/google/yapf/
 
 https://github.com/psf/black
@@ -310,67 +200,156 @@ https://dmerej.info/blog/post/bye-bye-pylint/
 
 http://flake8.pycqa.org/en/latest/user/options.html
 
-https://docs.gitlab.com/ee/ci/examples/test-and-deploy-python-application-to-heroku.html
-
-nesse caso, deu certo usando conftest.py do pytest
-
-eu vi agora tbm https://github.com/axelcdv/flask-testing/blob/master/project/core/tests/factories.py
-
-https://medium.com/@typenil/sqlalchemy-factoryboy-passing-arbitrary-sessions-to-factories-716870bf0c67
+https://github.com/pre-commit/pre-commit
 
 https://github.com/psf/black
 
 https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/
 
-https://github.com/pre-commit/pre-commit
+https://wemake-python-stylegui.de/en/latest/
 
-https://github.com/grupyrn/jararaca/pull/34
+---
 
-uma boa adicionar isso no readme https://github.com/grupyrn/jararaca/issues/31
+# microservices
+https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/ 
 
-https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+---
 
-o original https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
+# How to estimate how many requests per second your web app can handle
+https://twitter.com/miguelgrinberg/status/1183768631102132224?s=09
 
-https://github.com/dustinspecker/awesome-eslint#configs
+---
 
-https://github.com/airbnb/javascript
+# Asynchronous Web Development with Flask
+https://twitter.com/miguelgrinberg/status/1171036911487598602?s=09
 
-https://github.com/dustinspecker/awesome-eslint#configs
+---
 
-https://blog.jerrycodes.com/pre-commit-is-awesome/
+# fastapi
+https://github.com/tiangolo/fastapi
 
-https://github.com/pypa/pipenv
+https://github.com/tiangolo/full-stack-fastapi-postgresql
 
+https://fastapi.tiangolo.com/deployment/
+
+https://github.com/tiangolo/full-stack-fastapi-postgresql/tree/master/%7B%7Bcookiecutter.project_slug%7D%7D/backend
+ 
+https://medium.com/data-rebels/fastapi-how-to-add-basic-and-cookie-authentication-a45c85ef47d3
+
+https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/
+
+https://speakerfight.com/events/2o-encontro-grupy-jundiai/#fastapi-porque-python-e-muito-mais-do-que-django-e-flask
+
+---
+
+# falcon
+https://dev.to/apcelent/how-to-create-rest-api-using-falcon-coi 
+
+---
+
+# boas praticas
+https://medium.com/@viniciuschan/solid-com-python-entendendo-os-5-princ%C3%ADpios-na-pr%C3%A1tica-f2af330b7751
+
+---
+
+# qcon sp
+https://www.youtube.com/watch?v=G_tCYSE4K0I&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=16&t=0s
+
+### Microservices em produção, e agora?
+https://www.youtube.com/watch?v=JdeQLLB1CdY&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=19&t=0s
+
+### Microservices, APIs, and the Autonomous Web
+https://www.youtube.com/watch?v=z1-ER6m9HrQ&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=24&t=0s
+
+### 3 Common Pitfalls in Microservice Integration
+https://www.youtube.com/watch?v=ys-L0WBBHs8&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=29&t=0s
+
+### The Principles of Evolutionary Architecture
+https://www.youtube.com/watch?v=72QcYs-2oss&list=PLoxsuhBe-jd8LgY7Y6G2UZl0d0c5ikfGt&index=35&t=0s
+
+### Design Microservice Architectures the Right Way
+https://www.youtube.com/watch?v=j6ow-UemzBc
+
+### Microservices + Events + Docker = A Perfect Trio
+https://www.youtube.com/watch?v=sSm2dRarhPo
+
+
+ 
+https://www.infoq.com/br/presentations/api-gateway-fugir-do-monolito/
+
+https://github.com/JacksonWuxs/DaPy
+
+https://github.com/ligurio/awesome-software-quality
+
+https://github.com/proudcloud/awesome
+
+https://github.com/proudcloud/awesome/blob/master/practices/qa.md
+ 
+https://www.starlette.io/
+
+
+https://deepsource.io/blog/new-python-web-frameworks/
+
+ 
+
+https://medium.com/idealo-tech-blog/falcon-vs-flask-which-one-to-pick-to-create-a-scalable-deep-learning-rest-api-adef647ebdec
+
+ 
+ 
+https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/
+
+http://gino.fantix.pro/en/latest/why.html
+
+https://www.youtube.com/watch?v=FYKNHk3Ze8A
+
+https://www.youtube.com/watch?v=KyFVA4Spcgg
+
+https://www.youtube.com/watch?v=EZ05e7EMOLM
+
+
+# mashmallow | pydantic
+https://github.com/samuelcolvin/pydantic/blob/master/benchmarks/test_marshmallow.py
+
+https://pydantic-docs.helpmanual.io/benchmarks/
+
+
+# process and system monitoring in Python
+https://github.com/giampaolo/psutil
+
+ 
+
+ 
+ 
+https://youtu.be/MAvXluvVv5o
+
+https://youtu.be/AUtrEYnm0ts
+
+ 
+https://www.youtube.com/watch?v=zcmU-OE452k
+
+# python for kids
+https://www.amazon.com/Girls-Who-Code-Learn-Change/dp/042528753X
+
+https://www.amazon.com/gp/product/1593275749/ref=as_li_tl?ie=UTF8&tag=projemun 20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593275749&linkId=e05e1f12176c4959cc1aa1a050908c4a
+
+https://nostarch.com/pythonforkids
+
+https://opensource.com/article/18/5/books-kids-linux-open-source
+
+
+ 
+
+
+
+ 
 https://www.youtube.com/playlist?list=PLOQgLBuj2-3IoAs-EbiqARJ3AsmCY_DER
 
-https://www.guru99.com/bdd-testing-rest-api-behave.html
-
-https://github.com/behave/behave
 
 https://www.youtube.com/watch?v=Y_GQdxRSnIg
 
-https://stackoverflow.com/questions/10101127/fabric-asks-for-password-even-though-i-can-ssh-using-credential
-
-https://medium.com/python-pandemonium/automate-your-deployment-and-ssh-activities-with-fabric-e59e0db17537
-
-https://gitlab.com/manasbr/manas-cli
-
-sobre o .local. https://github.com/rochacbruno/dynaconf/blob/master/docs/guides/usage.md#settings-files-location
-
-https://stackoverflow.com/questions/25128114/how-do-i-test-fabric-tasks
-
+  
 http://click.palletsprojects.com/en/7.x/testing/
-
-https://pre-commit.com/
-
-pensei de cara indicar a leitura do https://12factor.net/
-
-https://hackclub.com/
-
-https://hackclub.com/bank/
-
-https://github.com/uilicious/inboxkitten
+ 
 
 https://dev.to/uilicious/the-stack-making-a-free-open-source-disposable-email-service-prototype-inboxkittencom-in-14-hours-206g
 
@@ -390,10 +369,8 @@ https://twitter.com/pycoders/status/1191763611208867843?s=09
 
 https://t.co/StH9Qxlvk1?amp=1
 
-https://wemake-python-stylegui.de/en/latest/
 
-https://www.vultr.com/products/cloud-compute/
-
+ 
  
  
  
@@ -401,7 +378,3 @@ https://www.vultr.com/products/cloud-compute/
  
 # A simple shared budget manager web application
 https://github.com/spiral-project/ihatemoney/blob/master/ihatemoney/api.py
-
-
-
-https://google.github.io/tacotron/publications/speaker_adaptation/
