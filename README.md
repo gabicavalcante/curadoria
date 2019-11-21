@@ -40,7 +40,7 @@ http://gino.fantix.pro/en/latest/why.html
 ---
 
 # BDD + TDD
-https://www.youtube.com/watch?v=Y_GQdxRSnIg
+- criando uma API com flask + BDD + TDD + Marshmallow: https://www.youtube.com/watch?v=Y_GQdxRSnIg
 
 - python BDD Framework Comparison: https://blog.testproject.io/2019/05/16/python-testing-framework-pros-cons/
 
