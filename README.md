@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=Y_GQdxRSnIg
 
 https://blog.testproject.io/2019/05/16/python-testing-framework-pros-cons/
 
-https://locust.io/
+- load testing tool (teste de carga): https://locust.io/
 
 http://radish-bdd.io/
 
