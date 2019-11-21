@@ -42,11 +42,9 @@ http://gino.fantix.pro/en/latest/why.html
 # BDD + TDD
 https://www.youtube.com/watch?v=Y_GQdxRSnIg
 
-https://blog.testproject.io/2019/05/16/python-testing-framework-pros-cons/
+- python BDD Framework Comparison: https://blog.testproject.io/2019/05/16/python-testing-framework-pros-cons/
 
 - load testing tool (teste de carga): https://locust.io/
-
-http://radish-bdd.io/
 
 https://www.patricksoftwareblog.com/monkeypatching-with-pytest/
 
@@ -54,7 +52,7 @@ https://dannorth.net/2012/05/31/bdd-is-like-tdd-if/
 
 https://learning.oreilly.com/library/view/python-testing-with/9781680502848/
 
-https://github.com/leoGalani/sherlock
+- test manager: https://github.com/leoGalani/sherlock
 
 https://martinfowler.com/articles/practical-test-pyramid.html
 
