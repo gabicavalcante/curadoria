@@ -22,6 +22,11 @@ https://blog.jerrycodes.com/pre-commit-is-awesome/
 
 ---
 
+# pyenv
+https://realpython.com/intro-to-pyenv/
+
+---
+
 # python 
 https://learning.oreilly.com/videos/tips-tricks-and/9781789139235
 
