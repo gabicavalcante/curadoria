@@ -257,6 +257,10 @@ https://wemake-python-stylegui.de/en/latest/
 # microservices
 https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/ 
 
+https://www.fullstackpython.com/microservices.html
+
+https://martinfowler.com/articles/microservices.html
+
 ---
 
 # How to estimate how many requests per second your web app can handle
