@@ -143,13 +143,11 @@ https://medium.com/free-code-camp/makefiles-101-how-to-use-make-as-a-task-automa
 https://github.com/kennethreitz/bake
 
 ### deploy
-
 https://github.com/localstack/localstack
 
 ---
 
 # aplication stack
-
 https://parseplatform.org/
 
 ---
@@ -258,6 +256,8 @@ https://learning.oreilly.com/library/view/monolith-to-microservices/978149204783
 https://www.fullstackpython.com/microservices.html
 
 https://martinfowler.com/articles/microservices.html
+
+Django Microservices Made Easy: https://www.elastic.co/pt/videos/django-microservices-made-easy-by-paul-hallett
 
 ---
 
