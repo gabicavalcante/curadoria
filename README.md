@@ -34,6 +34,12 @@ https://dev.to/charlesdlandau/python-3-8-has-been-released-let-s-take-a-tour-bj3
 
 ---
 
+# design-patterns
+
+- Alex Martelli's Design Patterns in Python: https://speakerdeck.com/ramalho/alex-martellis-design-patterns-in-python-bilingual-1?slide=29
+
+---
+
 # python concorrente | async
 
 https://www.youtube.com/watch?v=FYKNHk3Ze8A
