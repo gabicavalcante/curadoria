@@ -27,6 +27,11 @@ https://realpython.com/intro-to-pyenv/
 
 ---
 
+# Static Hosting
+https://zeit.co/
+
+---
+
 # python 
 https://learning.oreilly.com/videos/tips-tricks-and/9781789139235
 
@@ -56,6 +61,8 @@ http://gino.fantix.pro/en/latest/why.html
 - python BDD Framework Comparison: https://blog.testproject.io/2019/05/16/python-testing-framework-pros-cons/
 
 - load testing tool (teste de carga): https://locust.io/
+
+- Write tests. Not too many. Mostly integration: https://kentcdodds.com/blog/write-tests
 
 https://www.patricksoftwareblog.com/monkeypatching-with-pytest/
 
