@@ -64,6 +64,8 @@ http://gino.fantix.pro/en/latest/why.html
 
 - Write tests. Not too many. Mostly integration: https://kentcdodds.com/blog/write-tests
 
+- Become A Testing Heretic: https://medium.com/swlh/become-a-testing-heretic-616cc9b468bd
+
 https://www.patricksoftwareblog.com/monkeypatching-with-pytest/
 
 https://dannorth.net/2012/05/31/bdd-is-like-tdd-if/
