@@ -53,6 +53,10 @@ https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases/
 
 http://gino.fantix.pro/en/latest/why.html
 
+WebSockets python: https://www.fullstackpython.com/websockets.html
+
+Girando pratos: concorrência moderna em Python - Luciano Ramalho: https://www.youtube.com/watch?v=ksHpv8selV4
+
 ---
 
 # BDD + TDD
@@ -220,6 +224,8 @@ https://www.sami-lehtinen.net/blog/simplelogin-tested-oauth
 https://medium.com/simplelogin/how-was-simplelogin-born-2fbd8f79b212
 
 https://auth0.com/signup
+
+Uma introdução ao OAuth 2: https://www.digitalocean.com/community/tutorials/uma-introducao-ao-oauth-2-pt
 
 ---
 
