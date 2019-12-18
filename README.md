@@ -39,6 +39,16 @@ https://dev.to/charlesdlandau/python-3-8-has-been-released-let-s-take-a-tour-bj3
 
 ---
 
+# uwsgi, gunicorn, nginx...
+
+https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04-pt
+
+https://vladikk.com/2013/09/12/serving-flask-with-nginx-on-ubuntu/
+
+https://www.javacodemonk.com/part-2-deploy-flask-api-in-production-using-wsgi-gunicorn-with-nginx-reverse-proxy-4cbeffdb
+
+---
+
 # design-patterns
 
 - Alex Martelli's Design Patterns in Python: https://speakerdeck.com/ramalho/alex-martellis-design-patterns-in-python-bilingual-1?slide=29
