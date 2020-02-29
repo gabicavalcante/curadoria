@@ -123,6 +123,10 @@ https://docs.google.com/presentation/d/1qKKPJPar7wsieXdscwNznyFRjfCQX9UKV9bpeVxh
 
 https://github.com/proudcloud/awesome/blob/master/practices/qa.md
 
+### qualidade de codigo
+
+codigo morto : https://github.com/jendrikseipp/vulture
+
 ---
 
 # Data Mining
